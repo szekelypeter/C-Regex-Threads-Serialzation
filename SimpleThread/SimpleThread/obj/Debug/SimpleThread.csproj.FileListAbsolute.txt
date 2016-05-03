@@ -1,0 +1,5 @@
+c:\users\szekely peter\documents\visual studio 2015\Projects\SimpleThread\SimpleThread\bin\Debug\SimpleThread.exe.config
+c:\users\szekely peter\documents\visual studio 2015\Projects\SimpleThread\SimpleThread\bin\Debug\SimpleThread.exe
+c:\users\szekely peter\documents\visual studio 2015\Projects\SimpleThread\SimpleThread\bin\Debug\SimpleThread.pdb
+c:\users\szekely peter\documents\visual studio 2015\Projects\SimpleThread\SimpleThread\obj\Debug\SimpleThread.exe
+c:\users\szekely peter\documents\visual studio 2015\Projects\SimpleThread\SimpleThread\obj\Debug\SimpleThread.pdb

@@ -1,0 +1,1 @@
+c:\users\szekely peter\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.exe.config
